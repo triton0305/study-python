@@ -1,3 +1,4 @@
-.exe
-.ipynb_checkpoints
-.lnk
+*.csv
+*.ipynb_checkpoints
+*.exe
+*.txt
